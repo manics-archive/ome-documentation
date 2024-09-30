@@ -1,4 +1,4 @@
 # Python installation requirements for OMERO.
 # ===========================================
-numexpr==1.4.2
+numexpr==2.8.5
 tables==2.4.0
